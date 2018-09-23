@@ -43,10 +43,10 @@ public class Config
                 switch(key)
                 {
                     case "token":
-                        token = value;
+                        token =  "NDkwNzU0OTA1MDc4NzU5NDI1.Dn-Dgw.LGhBdXTi5Vl1P4BLiDAxtIiewbk";
                         break;
                     case "prefix":
-                        prefix = value;
+                        prefix = "!";
                         break;
                     case "altprefix":
                         altprefix = value;
