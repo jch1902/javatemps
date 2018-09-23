@@ -43,7 +43,7 @@ public class Config
                 switch(key)
                 {
                     case "token":
-                        token =  "NDkwNzU0OTA1MDc4NzU5NDI1.Dn-Dgw.LGhBdXTi5Vl1P4BLiDAxtIiewbk";
+                        token =  "NDkwOTIzMTE0NzI5OTYzNTUw.DojAnw.EEmZ5O-Hy61Hca1AJ-UISyGGfII";
                         break;
                     case "prefix":
                         prefix = "!";
